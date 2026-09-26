@@ -1,118 +1,51 @@
-<!-- ─────────────────────────────────────────────────────────────
-     ARNOVIA — Premium GitHub Profile README
-     Style: Apple-inspired / editorial / minimal / dark
-     ───────────────────────────────────────────────────────────── -->
-
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,50:111827,100:18181B&height=250&section=header&text=arnovia.&fontSize=82&fontColor=F5F5F7&fontAlignY=43&desc=Software%20Developer%20%E2%80%94%20designing%20thoughtful%20digital%20experiences.&descAlignY=63&descSize=17&descColor=A1A1AA&animation=fadeIn"
+  src="https://raw.githubusercontent.com/arnovia/arnovia/main/assets/hero.svg"
   width="100%"
   alt="Arnovia — Software Developer"
 />
 
-<br/>
-
-<p>
-  <a href="https://github.com/arnovia">
-    <img src="https://img.shields.io/badge/GitHub-arnovia-18181B?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=09090B" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-18181B?style=flat-square&logo=linkedin&logoColor=FFFFFF&labelColor=09090B" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mail@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-18181B?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=09090B" alt="Email" />
-  </a>
-</p>
-
 </div>
 
 <br/>
 
-<!-- INTRODUCTION -->
+## Building digital things with clarity.
 
-<table border="0" width="100%">
-<tr>
-<td width="57%" valign="top">
+I’m **Arnovia**, a software developer based in Türkiye.
 
-## Hello, I’m Arnovia.
+I build considered web experiences, useful products, and reliable systems — where product thinking, visual detail, and engineering meet.
 
-I am a software developer focused on building digital products that feel as good as they function.
-
-My approach combines thoughtful engineering, clear visual systems, and a strong attention to the small details that turn an application into an experience.
-
-```ts
-const arnovia = {
-  location: "Türkiye",
-  role: "Software Developer",
-  building: "Modern web products and meaningful tools",
-  mindset: "Less, but better.",
-  availableFor: ["Collaboration", "Freelance", "Open source"]
-};
-```
-
-</td>
-<td width="43%" valign="top">
+I care about the details people feel but rarely notice: fast interactions, clear hierarchy, simple flows, and code that stays understandable long after it ships.
 
 <br/>
-
-```text
-01  —  BUILD
-     Reliable software,
-     from idea to production.
-
-02  —  DESIGN
-     Interfaces with
-     clarity and purpose.
-
-03  —  IMPROVE
-     Always refining
-     the experience.
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-## Selected capabilities
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="50%" valign="top">
 
-### Engineering
+### What I do
 
-Building dependable, maintainable systems with modern tools and clean architecture.
+I design and develop digital products from the first idea to production.
 
-`TypeScript` · `JavaScript`  
-`Node.js` · `Python`  
-`REST APIs` · `Databases`
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### Product
-
-Turning complex requirements into intuitive and fast digital experiences.
-
-`React` · `Next.js`  
-`UI Systems` · `UX`  
-`Responsive Design`
+- Full-stack web development
+- Modern frontend architecture
+- Product-focused user experiences
+- APIs, databases, and integrations
+- Performance and developer experience
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="50%" valign="top">
 
-### Delivery
+### Current focus
 
-Shipping products that perform reliably beyond the local development environment.
+Exploring the intersection of software, interaction, and intelligent tools.
 
-`Git` · `Docker`  
-`Vercel` · `Cloud`  
-`CI/CD` · `Linux`
+- Building polished web applications
+- Designing systems that scale
+- Creating useful AI-powered experiences
+- Learning through open source
+- Shipping more than I consume
 
 </td>
 </tr>
@@ -120,42 +53,67 @@ Shipping products that perform reliably beyond the local development environment
 
 <br/>
 
-<div align="center">
+## Selected tools
 
-<img
-  src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,postgres,mongodb,docker,git,github,linux,figma,vercel&theme=dark"
-  alt="Technology stack"
-/>
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,postgres,mongodb,docker,git,github,figma&theme=dark" alt="Technology stack" />
 
 </div>
 
 <br/>
 
----
+## Selected work
 
-## Now
+> Replace the project names and links below once you have repositories you want to showcase.
 
-<table border="0" width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### Currently exploring
+### 01 — Your best project
 
-- High-performance web applications
-- Product-oriented full-stack architecture
-- AI-assisted developer workflows
-- Creative interfaces and motion systems
-- Open-source software and collaboration
+A short, direct description of the problem this project solves. Focus on the outcome, not every technology used.
+
+`Next.js` · `TypeScript` · `PostgreSQL`
+
+[View project →](https://github.com/arnovia/PROJECT-ONE)
 
 </td>
 <td width="50%" valign="top">
 
-### Principles
+### 02 — Another meaningful project
 
-> “Simplicity is not the absence of complexity.  
-> It is the result of resolving it.”
+A useful product, open-source tool, experiment, or a polished interface you are proud to have built.
 
-I care about readable code, intentional interfaces, performance, accessibility, and software that remains useful as it grows.
+`React` · `Node.js` · `Docker`
+
+[View project →](https://github.com/arnovia/PROJECT-TWO)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 03 — Experimental work
+
+A place for creative coding, an AI experiment, a design system, or something technically interesting.
+
+`JavaScript` · `Three.js` · `WebGL`
+
+[View project →](https://github.com/arnovia/PROJECT-THREE)
+
+</td>
+<td width="50%" valign="top">
+
+### 04 — Open source
+
+A small package, utility, starter kit, or contribution that helps other developers.
+
+`Open source` · `Developer tools`
+
+[Explore GitHub →](https://github.com/arnovia?tab=repositories)
 
 </td>
 </tr>
@@ -163,100 +121,147 @@ I care about readable code, intentional interfaces, performance, accessibility, 
 
 <br/>
 
----
+## A few principles
 
-## Activity
+```text
+01   Build for people, not metrics.
 
-<div align="center">
+02   Make complexity feel simple.
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=arnovia&show_icons=true&hide_border=true&bg_color=00000000&title_color=F5F5F7&text_color=A1A1AA&icon_color=FFFFFF&ring_color=A1A1AA&include_all_commits=true&count_private=true"
-  alt="Arnovia GitHub statistics"
-/>
+03   Good software should be fast, calm, and clear.
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnovia&layout=compact&hide_border=true&bg_color=00000000&title_color=F5F5F7&text_color=A1A1AA&langs_count=6"
-  alt="Arnovia top languages"
-/>
+04   Details are not decoration — they are the experience.
 
-</div>
+05   Keep learning. Keep shipping.
+```
 
 <br/>
 
-<div align="center">
+## Elsewhere
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=arnovia&bg_color=0D1117&color=F5F5F7&line=A1A1AA&point=FFFFFF&area=true&area_color=27272A&hide_border=true&radius=8"
-  width="100%"
-  alt="Arnovia GitHub contribution graph"
-/>
-
-</div>
-
-<br/>
-
----
-
-## Featured work
-
-<!--
-  Bu alanları kendi repository adlarınla değiştirmelisin.
-  Örnek:
-  repo=portfolio
-  repo=project-name
--->
-
-<div align="center">
-
-<a href="https://github.com/arnovia/PROJECT-ONE">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=arnovia&repo=PROJECT-ONE&hide_border=true&bg_color=00000000&title_color=F5F5F7&text_color=A1A1AA&icon_color=FFFFFF"
-    alt="Featured project one"
-  />
-</a>
-
-<a href="https://github.com/arnovia/PROJECT-TWO">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=arnovia&repo=PROJECT-TWO&hide_border=true&bg_color=00000000&title_color=F5F5F7&text_color=A1A1AA&icon_color=FFFFFF"
-    alt="Featured project two"
-  />
-</a>
-
-</div>
-
-<br/>
-
----
-
-## Beyond the code
-
-I believe the best software is quiet: it is fast when it needs to be, clear when things get complicated, and invisible when people are trying to get something done.
-
-If you are building something ambitious, useful, or simply interesting, I would be glad to hear about it.
-
-<br/>
-
-<div align="center">
-
-<a href="mailto:mail@example.com">
-  <img
-    src="https://img.shields.io/badge/Start%20a%20conversation-%E2%86%92-F5F5F7?style=for-the-badge&labelColor=18181B&color=F5F5F7&logoColor=18181B"
-    alt="Start a conversation"
-  />
-</a>
+<a href="https://github.com/arnovia">GitHub</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/USERNAME">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://x.com/USERNAME">X / Twitter</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://YOUR-PORTFOLIO.com">Portfolio</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:mail@example.com">Email</a>
 
 <br/><br/>
 
-<sub>© 2026 Arnovia. Designed and engineered with intention.</sub>
+---
 
-<br/><br/>
+<div align="center">
+<svg width="1600" height="720" viewBox="0 0 1600 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1600" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06070A"/>
+      <stop offset="0.48" stop-color="#0B0D12"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,50:18181B,100:09090B&height=70&section=footer"
-  width="100%"
-  alt="Footer"
-/>
+    <radialGradient id="blueGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1230 142) rotate(139.6) scale(570 560)">
+      <stop stop-color="#3B82F6" stop-opacity="0.4"/>
+      <stop offset="0.4" stop-color="#2563EB" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="violetGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(370 690) rotate(-37) scale(610 410)">
+      <stop stop-color="#8B5CF6" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="orb" x1="1118" y1="94" x2="1431" y2="472" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E2E8F0" stop-opacity="0.94"/>
+      <stop offset="0.21" stop-color="#94A3B8" stop-opacity="0.5"/>
+      <stop offset="0.52" stop-color="#334155" stop-opacity="0.45"/>
+      <stop offset="0.78" stop-color="#0F172A" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0.96"/>
+    </linearGradient>
+
+    <linearGradient id="orbHighlight" x1="1150" y1="115" x2="1360" y2="365" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white" stop-opacity="0.75"/>
+      <stop offset="0.32" stop-color="#BFDBFE" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="blurLarge" x="-200" y="-200" width="2000" height="1200" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="70"/>
+    </filter>
+
+    <filter id="blurSmall" x="-100" y="-100" width="1800" height="1000" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+
+    <filter id="orbShadow" x="960" y="25" width="630" height="620" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="34" stdDeviation="28" flood-color="#000000" flood-opacity="0.65"/>
+    </filter>
+
+    <pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse">
+      <path d="M46 0H0V46" fill="none" stroke="#FFFFFF" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+
+    <clipPath id="heroClip">
+      <rect width="1600" height="720" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#heroClip)">
+    <rect width="1600" height="720" fill="url(#background)"/>
+    <rect width="1600" height="720" fill="url(#grid)"/>
+
+    <ellipse cx="1230" cy="142" rx="570" ry="560" fill="url(#blueGlow)" filter="url(#blurLarge)"/>
+    <ellipse cx="370" cy="690" rx="610" ry="410" fill="url(#violetGlow)" filter="url(#blurLarge)"/>
+
+    <path d="M-30 526C218 400 432 613 659 493C825 405 932 296 1139 362C1321 420 1445 357 1653 208"
+      stroke="#FFFFFF"
+      stroke-opacity="0.09"
+      stroke-width="1"/>
+
+    <path d="M-40 558C197 446 420 638 677 530C876 446 998 344 1165 404C1347 469 1488 401 1653 276"
+      stroke="#60A5FA"
+      stroke-opacity="0.13"
+      stroke-width="1"/>
+
+    <g filter="url(#orbShadow)">
+      <circle cx="1268" cy="310" r="194" fill="url(#orb)"/>
+      <circle cx="1268" cy="310" r="193.5" stroke="#E2E8F0" stroke-opacity="0.16"/>
+      <ellipse cx="1208" cy="225" rx="100" ry="128" transform="rotate(31 1208 225)" fill="url(#orbHighlight)" filter="url(#blurSmall)"/>
+      <path d="M1108 388C1161 455 1269 505 1374 455" stroke="#93C5FD" stroke-opacity="0.2" stroke-width="1.5"/>
+      <path d="M1124 246C1207 175 1333 157 1428 235" stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="1"/>
+    </g>
+
+    <circle cx="148" cy="135" r="4" fill="#E2E8F0"/>
+    <circle cx="170" cy="135" r="4" fill="#64748B"/>
+    <circle cx="192" cy="135" r="4" fill="#334155"/>
+
+    <text x="145" y="273" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="4">
+      SOFTWARE DEVELOPER
+    </text>
+
+    <text x="140" y="386" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="104" font-weight="700" letter-spacing="-5">
+      arnovia
+    </text>
+
+    <rect x="145" y="432" width="62" height="2" fill="#60A5FA"/>
+
+    <text x="145" y="484" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400">
+      Building thoughtful software
+    </text>
+
+    <text x="145" y="520" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400">
+      for a more connected future.
+    </text>
+
+    <text x="145" y="637" fill="#64748B" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" letter-spacing="2.2">
+      2026  /  TÜRKİYE  /  DIGITAL CRAFT
+    </text>
+
+    <rect x="1" y="1" width="1598" height="718" rx="23" stroke="#FFFFFF" stroke-opacity="0.11" stroke-width="2"/>
+  </g>
+</svg>
+<sub>Designed with intention. Built with curiosity.</sub>
 
 </div>
