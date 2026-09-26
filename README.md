@@ -1,51 +1,37 @@
-<!-- Haraketli Dalga ve Başlık Animasyonu -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Arnovia%20Store&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Architecting%20the%20Digital%20Future&descSize=20&descAlign=50&descAlignY=65" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=250&section=header&text=Arnovia%20Store&fontSize=75&fontColor=1a1a1a&animation=twinkling&desc=System%20Architect%20%7C%20Code%20Ninja&descSize=22" width="100%" />
+</div>
 
 <div align="center">
-  <!-- Daktilo Efekti (GÜNCELLENDİ) -->
+  <!-- Neon Matrix Yeşil Daktilo (Fütüristik Font) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=System+Architect;Full-Stack+Developer;Open+Source+Contributor;Turning+Coffee+into+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Initializing+System...;Access+Granted:+\/\/ARNOVIA;Building+The+Future;Automating+Everything" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
-<div align="center">
-  <!-- GitHub Dinamik Kupaları (Bot çalışınca düzelecek) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arnoviastore&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="arnoviastore trophies" />
-  </a>
-</div>
-
-<br>
-
-<h2 align="center"> ⚡ Technologies & Arsenal </h2>
+<h2 align="center"> 🟩 TECH ARSENAL 🟩 </h2>
 
 <div align="center">
-  <!-- Dünyanın en modern ve uyumlu yetenek ikonları (SkillIcons) -->
+  <!-- Siyah/Yeşil Uyumlu Yetenek İkonları -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,java,go,react,nextjs,vue,nodejs,nestjs,express,mongodb,postgres,redis,docker,kubernetes,aws,linux,git,github,figma&perline=11" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,express,mongodb,vue,react,tailwind,docker,kubernetes,aws,linux,git,github,bash,vim,nginx&theme=dark" />
   </a>
 </div>
 
 <br>
 
-<h2 align="center"> 📊 GitHub Analytics </h2>
+<h2 align="center"> 🟢 MATRIX ANALYTICS 🟢 </h2>
 
+<!-- Özel Kodlanmış Tamamen Yeşil Neon İstatistik Kartları -->
 <div align="center">
-  <!-- Gelişmiş Aktivite Grafiği (Bot çalışınca düzelecek) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnoviastore&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true&hide_title=true" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arnoviastore&show_icons=true&hide_border=true&count_private=true&title_color=39FF14&icon_color=39FF14&text_color=a9fef7&bg_color=0D1117" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoviastore&layout=compact&hide_border=true&title_color=39FF14&text_color=a9fef7&bg_color=0D1117" height="195" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- İstatistik Kartları (Bot çalışınca düzelecek) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=arnoviastore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoviastore&layout=compact&theme=tokyonight&hide_border=true" height="195" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer" width="100%" />
 </div>
-
-<br>
-
-<!-- Footer Animasyonu -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" />
