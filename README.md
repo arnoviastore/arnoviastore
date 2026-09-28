@@ -12,6 +12,20 @@
 
 <br>
 
+<h2 align="center"> 👤 whoami </h2>
+
+<p align="center">
+  <b><code>> ./arnovia.sh --info</code></b>
+</p>
+<p align="center">
+  I am a passionate <b>Software Developer</b> based in Turkey. 🇹🇷 <br>
+  I specialize in building robust backend systems, dynamic frontend architectures, and automating everything in between. <br>
+  Constantly learning, experimenting with AI, and turning caffeine into clean code. ☕🚀 <br><br>
+  <i>"Simplicity is the soul of efficiency."</i>
+</p>
+
+<br>
+
 <h2 align="center"> 🌌 Technologies & Tools </h2>
 <div align="center">
   <!-- Pürüzsüz Açık Tema İkonlar -->
@@ -33,7 +47,7 @@
 <br>
 
 <div align="center">
-  <!-- Streak (Seri) Kartı eklendi! -->
+  <!-- Streak (Seri) Kartı -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=umutgungorr&hide_border=true&background=0d0b14&stroke=0000&ring=8A2BE2&fire=00FFFF&currStreakNum=00FFFF&sideNums=e0e0e0&sideLabels=e0e0e0&dates=e0e0e0" height="195" />
 </div>
 
